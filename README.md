@@ -15,7 +15,7 @@ An exploratory data analysis was first conducted to examine team performance tre
 
 ## Machine Learning
 ### Problem Formulation
-- The task was framed as a binary classification problem, where the objective is to predict whether a team will win the league (1) or not (0) based on season performance metrics.
+The task was framed as a binary classification problem, where the objective is to predict whether a team will win the league (1) or not (0) based on season performance metrics.
 
 ### Feature Engineering
 - Additional features were created to better represent season progression and future performance:
