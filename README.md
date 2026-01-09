@@ -44,14 +44,14 @@ These features capture both current performance and expected season trajectory, 
 ### Prediction Outputs
 For the 2025–2026 season, the model generated:
 - Predicted league winner
+- Projected final points
+- Win probability for each team
+
+### Visualization
+A bar chart was produced to visualize championship win probabilities by team, allowing for easy comparison of title contenders and clearer interpretation of model confidence.
 
 ## Results of the Model
 - LaLiga: Barcelona
 - Premier League: Arsenal
 - Bundesliga: Bayern Munich
 - Serie A: Inter Milan
-- Projected final points
-- Win probability for each team
-
-### Visualization
-A bar chart was produced to visualize championship win probabilities by team, allowing for easy comparison of title contenders and clearer interpretation of model confidence.
