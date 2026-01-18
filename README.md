@@ -35,7 +35,7 @@ These features capture both current performance and expected season trajectory, 
 - The model was trained with 200 decision trees and a fixed random state for reproducibility.
 
 ### Model Evaluation
-- Model performance on training data was assessed using multiple metrics:
+Model performance on training data was assessed using multiple metrics:
 - Accuracy
 - ROC-AUC Score
 - Log Loss
