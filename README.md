@@ -9,7 +9,7 @@ An exploratory data analysis was first conducted to examine team performance tre
 
 ## Exploratory Data Analysis
 - Evaluated team participation consistency across seasons
-- Analyzed top-four finish frequency to identify dominant teams
+- Analyzed top four finish frequency to identify dominant teams
 - Isolated historical league winners to study championship profiles
 - Computed average points per match for champions as a benchmark 
 
@@ -36,10 +36,10 @@ These features capture both current performance and expected season trajectory, 
 
 ### Model Evaluation
 - Model performance on training data was assessed using multiple metrics:
--- Accuracy
--- ROC-AUC Score
--- Log Loss
--- Confusion Matrix
+- Accuracy
+- ROC-AUC Score
+- Log Loss
+- Confusion Matrix
 
 ### Prediction Outputs
 For the 2025–2026 season, the model generated:
