@@ -48,7 +48,7 @@ For the 2025–2026 season, the model generated:
 - Win probability for each team
 
 ### Visualization
-A bar chart was produced to visualize championship win probabilities by team, allowing for easy comparison of title contenders and clearer interpretation of model confidence.
+A bar chart was produced to visualize championship win probabilities by team allowing for easy comparison of title contenders.
 
 ## Results of the Model
 - LaLiga: Barcelona
