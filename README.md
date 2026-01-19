@@ -9,16 +9,16 @@ An exploratory data analysis was first conducted to examine team performance tre
 
 ## Exploratory Data Analysis
 - Evaluated team participation consistency across seasons
-- Analyzed top four finish frequency to identify dominant teams
-- Isolated historical league winners to study championship profiles
-- Computed average points per match for champions as a benchmark 
+- Analyzed the top four finish frequency to determine the dominant teams
+- Separated past league winners to examine championship profiles
+- Calculated the average points per match for champions as a benchmark 
 
 ## Machine Learning
 ### Problem Formulation
-The task was framed as a binary classification problem, where the objective is to predict whether a team will win the league (1) or not (0) based on season performance metrics.
+The task was presented as a binary classification problem, where the goal is to predict whether a team will win the league (1) or not (0) based on season performance metrics.
 
 ### Feature Engineering
-- Additional features were created to better represent season progression and future performance:
+Additional features were created to better represent season progression and future performance:
 - Games Left
 - Projected Points: Estimated final points total based on current points per match
 - Points per Match
