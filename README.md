@@ -4,7 +4,7 @@ This project uses machine learning to predict the winners of the 2025–2026 sea
 An exploratory data analysis was first conducted to examine team performance trends, feature distributions, and key factors influencing league success. Based on these insights, a Random Forest model was trained to capture non-linear relationships between features and generate predictions.
 
 ## Data
-- Utilized data from fbref.com
+- Utilized data from https://fbref.com/en/
 - Gathered data from the past 10 seasons for each of the four leagues into csv files
 
 ## Exploratory Data Analysis
